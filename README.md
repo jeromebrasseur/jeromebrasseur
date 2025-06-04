@@ -1,72 +1,50 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=HeyEveryone!&height=100&section=header"/>
+![DevOps](img/cover_portfolio.png 'Admin System DevOps')
+
+<h1 align="center">Hi, I'm Jerome Brasseur! 👋 </h1>
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jeromebrasseur.visitor-badge"  />
+
+<p>
+
+Follow me on --> <a href="https://www.linkedin.com/in/jeromebrasseur92000"> Linkedin</a>
+
 </p>
-
-<h1 align="center">
-  Let's Connect and have a Chat!💬
-</h1>
+<br>
+<h2>💻 TECH STACK</h2>
 
 <p align="center">
-<a href="https://piyushmalhotra.netlify.app/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166972883-f5f1d88c-0246-4374-88ac-ded0f2cf0699.png"/>
-</a>
-<a href="https://www.linkedin.com/in/thepiyushmalhotra/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
-</a>
-<a href="https://thepiyushmalhotra.medium.com/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973962-d05d145a-b6a0-4643-bd3d-5ac845679367.png"/>
-</a>
-<a href="https://dev.to/thepiyushmalhotra">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974096-7aeecad4-483e-4c85-983f-f4b37b3f794e.png"/>
-</a>
-<a href="https://twitter.com/Ipiyushmalhotra">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
-</a>
-<a href="https://www.instagram.com/thepiyushmalhotra/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=tailwind,js,astro,react,nodejs,py,postgres,docker,figma" alt="Tech Stack"/>
+  </a>
 </p>
-
----
-
-<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+<br>
+<h2> 👨🏻‍💻 A LITTLE BIT ABOUT ME</h2>
 
 ```yaml
-name: Piyush Malhotra
-located_in: Calgary, Alberta
-current_job: Full Stack Developer
+name: Jerome Brasseur
+located_in: Paris, France
+current_job: DevOps Engineer
+company: Econocom
+
 education:
   [
-    "Self-Taught Developer and Designer",
-    "Master's in Electrical and Computer Engineering",
-    "Bachelor's in Electronics and Communication",
+    "Bachelor's in DevOps System Administrator --> in progress",
+    "Associate's in Systems Administrator",
   ]
-company: Soulber
 
-fields_of_interests:
+currently_learning:
   [
-    "Web Development",
-    "Data Science",
-    "Machine Learning",
-    "UI/UX",
-    "Game Development",
-    "DevOps",
+    "Docker",
+    "Gitlab CI",
+    "Jenkins",
+    "Terraform",
+    "Ansible",
+    "Kubernetes"
   ]
-technical_background:
-  [
-    "Full Stack Developer"
-    "DevOps Solutions Architect",
-    "Intern - Data Science & Machine Learning in Python",
-    "Intern - Internet Of Things",
-    "Intern - VLSI and FPGA Implementation",
-  ]
-  
-currently_learning: ["Docker, Kubernetes, and React Native"]
-2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
-hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
+
+hobbies: ["Gaming", "Cinema", "Music", "Basketball"]
 ```
   
----  
+<br> 
   
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
@@ -92,9 +70,11 @@ hobbies: ["Gaming", "Cinema", "Skateboarding", "Art", "Comedy"]
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>       
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="git" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>
+
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+<br>
+<h2>📝 STATS GITHUB</h2>
+
+![Jerome's github stats](https://github-readme-stats.vercel.app/api?username=jeromebrasseur&show_icons=true&theme=tokyonight)

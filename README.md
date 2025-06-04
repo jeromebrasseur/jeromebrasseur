@@ -1,4 +1,4 @@
-![DevOps](img/cover_portfolio.png 'Admin System DevOps')
+![DevOps](https://github.com/jeromebrasseur/jeromebrasseur/blob/main/img/cover_portfolio.png 'Admin System DevOps')
 
 <h1 align="center">Hi, I'm Jerome Brasseur! 👋 </h1>
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jeromebrasseur.visitor-badge"  />
